@@ -1,1 +1,1 @@
-# Native_JS_Epam
+# Native_JS
